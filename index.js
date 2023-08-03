@@ -10,7 +10,7 @@ let randomNumberGiver = () => {
     let adjs = ['swiftly', 'rapidly','slowly'];
     let verbs = ['stole', 'ate', 'demolished'];
     let pronouns2 = ["her", "my","his"]; 
-    let nouns2 = ['projecct','homework'];
+    let nouns2 = ['project','homework'];
 
     let randomPronoun = Math.floor(Math.random() * pronouns.length);
     let randomNoun = Math.floor(Math.random() * nouns.length);
